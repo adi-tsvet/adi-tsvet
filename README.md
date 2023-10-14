@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Results-oriented data enthusiast with 2 years of experience in interpreting and analyzing complex data sets. Eager to learn from industry experts, gain practical experience, and leverage data visualization, statistical analysis, and database management skills to make a significant impact.
+![image](https://github.com/adi-tsvet/adi-tsvet/assets/48458068/05588f2d-a467-4231-9297-fbcb978e0e93)
 
 
 ## 🌐 Socials:
