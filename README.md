@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-oriented data enthusiast with 2 years of experience in interpreting and analyzing complex data sets. Eager to learn from industry experts, gain practical experience, and leverage data visualization, statistical analysis, and database management skills to make a significant impact.
+👋 Hi, I'm Adnan Ali, a Data Engineer and Scientist passionate about machine learning. I specialize in designing scalable data pipelines and leveraging technologies like Apache Spark and Kafka. With expertise in ML frameworks like TensorFlow and PyTorch, I develop predictive models and recommendation engines, aiming to drive actionable insights from complex datasets. Let's innovate together! 🚀
 
 
 ## 🌐 Socials:
