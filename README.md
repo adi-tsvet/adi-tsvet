@@ -12,10 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adi-tsvet&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-tsvet&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 # Visitor Count:
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=adi-tsvet&label=Profile%20Views&pretty=false" />
-</a>
-[![](https://visitcount.itsvg.in/api?id=adi-tsvet&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adi-tsvet&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
