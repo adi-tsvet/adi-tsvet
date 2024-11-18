@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Adnan Ali, a Data Engineer and Scientist passionate about machine learning. I specialize in designing scalable data pipelines and leveraging technologies like Apache Spark and Kafka. With expertise in ML frameworks like TensorFlow and PyTorch, I develop predictive models and recommendation engines, aiming to drive actionable insights from complex datasets. Let's innovate together! 🚀
+👋 Hi, I'm Adnan Ali, a Software Engineer, passionate about scalable web applications and data engineering. I specialize in developing REST APIs, designing microservices architectures, and implementing real-time data processing using Kafka and AWS. With skills in technologies like React, Next.js, and Python, I aim to create impactful software solutions that enhance user experience and efficiency. Let’s build something great together! 🚀
 
 
 ## 🌐 Socials:
